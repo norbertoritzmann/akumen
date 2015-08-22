@@ -1,0 +1,1 @@
+It is a data analytics and visualization tool targeted for public, private, and hybrid Cloud deployments such as Google Apps and Amazon Elastic Beanstalk. It combines in-memory analytics, data warehousing, and direct data access for a flexible yet performance centric analytics solutions.
